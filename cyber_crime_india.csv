@@ -1,0 +1,109 @@
+State,Year,Cases,Charge_Sheeted,Arrested
+Andhra Pradesh,2020,1899,314,475
+Andhra Pradesh,2021,1875,374,363
+Andhra Pradesh,2022,2341,394,538
+Arunachal Pradesh,2020,30,1,12
+Arunachal Pradesh,2021,47,3,5
+Arunachal Pradesh,2022,14,5,5
+Assam,2020,3530,385,1717
+Assam,2021,4846,579,6096
+Assam,2022,1733,634,2078
+Bihar,2020,1512,651,751
+Bihar,2021,1413,424,980
+Bihar,2022,1621,901,1435
+Chhattisgarh,2020,297,152,209
+Chhattisgarh,2021,352,200,260
+Chhattisgarh,2022,439,331,393
+Goa,2020,40,6,15
+Goa,2021,36,18,42
+Goa,2022,90,15,41
+Gujarat,2020,1283,475,942
+Gujarat,2021,1536,715,1395
+Gujarat,2022,1417,789,1327
+Haryana,2020,656,221,347
+Haryana,2021,622,326,647
+Haryana,2022,681,386,935
+Himachal Pradesh,2020,98,31,46
+Himachal Pradesh,2021,70,63,68
+Himachal Pradesh,2022,77,43,30
+Jharkhand,2020,1204,462,820
+Jharkhand,2021,953,400,1414
+Jharkhand,2022,967,419,1053
+Karnataka,2020,10741,2842,489
+Karnataka,2021,8136,5801,615
+Karnataka,2022,12556,3368,679
+Kerala,2020,426,161,299
+Kerala,2021,626,287,447
+Kerala,2022,773,441,550
+Madhya Pradesh,2020,699,445,692
+Madhya Pradesh,2021,589,487,803
+Madhya Pradesh,2022,826,471,664
+Maharashtra,2020,5496,902,1735
+Maharashtra,2021,5562,1428,2475
+Maharashtra,2022,8249,1410,2582
+Manipur,2020,79,0,17
+Manipur,2021,67,2,31
+Manipur,2022,18,0,12
+Meghalaya,2020,142,1,9
+Meghalaya,2021,107,6,2
+Meghalaya,2022,75,4,6
+Mizoram,2020,13,8,4
+Mizoram,2021,30,20,31
+Mizoram,2022,1,0,0
+Nagaland,2020,8,0,0
+Nagaland,2021,8,0,1
+Nagaland,2022,4,1,3
+Odisha,2020,1931,282,369
+Odisha,2021,2037,313,363
+Odisha,2022,1983,283,379
+Punjab,2020,378,106,298
+Punjab,2021,551,188,416
+Punjab,2022,697,143,489
+Rajasthan,2020,1354,340,541
+Rajasthan,2021,1504,502,861
+Rajasthan,2022,1833,677,884
+Sikkim,2020,0,0,0
+Sikkim,2021,0,0,0
+Sikkim,2022,26,0,0
+Tamil Nadu,2020,782,135,516
+Tamil Nadu,2021,1076,147,612
+Tamil Nadu,2022,2082,245,916
+Telangana,2020,5024,939,1169
+Telangana,2021,10303,1361,1478
+Telangana,2022,15297,2393,2442
+Tripura,2020,34,5,6
+Tripura,2021,24,10,8
+Tripura,2022,30,9,3
+Uttar Pradesh,2020,11097,4987,6491
+Uttar Pradesh,2021,8829,4407,6887
+Uttar Pradesh,2022,10117,4737,7122
+Uttarakhand,2020,243,58,93
+Uttarakhand,2021,718,158,207
+Uttarakhand,2022,559,121,155
+West Bengal,2020,712,178,203
+West Bengal,2021,513,307,246
+West Bengal,2022,401,432,355
+A&N Islands,2020,5,5,3
+A&N Islands,2021,8,3,12
+A&N Islands,2022,28,7,9
+Chandigarh,2020,17,3,4
+Chandigarh,2021,15,6,9
+Chandigarh,2022,27,8,17
+D&N Haveli and Daman & Diu,2020,3,1,1
+D&N Haveli and Daman & Diu,2021,5,2,4
+D&N Haveli and Daman & Diu,2022,5,5,4
+Delhi,2020,168,61,107
+Delhi,2021,356,157,494
+Delhi,2022,685,192,589
+Jammu & Kashmir,2020,120,14,33
+Jammu & Kashmir,2021,154,49,102
+Jammu & Kashmir,2022,173,53,76
+Ladakh,2020,1,0,0
+Ladakh,2021,5,0,0
+Ladakh,2022,3,0,0
+Lakshadweep,2020,3,0,2
+Lakshadweep,2021,1,1,0
+Lakshadweep,2022,1,0,0
+Puducherry,2020,10,5,5
+Puducherry,2021,0,0,0
+Puducherry,2022,64,8,28
